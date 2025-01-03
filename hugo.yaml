@@ -3,7 +3,31 @@ languageCode: en-us
 title: GIC Blogs
 theme: ["PaperMod"]
 
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON 
+
+menu:
+  main:
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 10
+    - identifier: search
+      name: Search
+      url: search/
+      weight: 10
+    - identifier: example
+      name: GIC
+      url: https://ict.gmmsc.club
+      weight: 30
+
+
 params:
+  env: production
   description: "Blog Site for GMMSC ICT Club"
   author: IT Team GIC
   ShareButtons: ["facebook","x","linkedin"]
