@@ -1,5 +1,31 @@
-baseURL: https://ictgmmsc.github.io
+baseURL: https://blogs.ict.gmmsc.club/
 languageCode: en-us
 title: GIC Blogs
 theme: ["PaperMod"]
 
+params:
+  description: "Blog Site for GMMSC ICT Club"
+  author: IT Team GIC
+  ShareButtons: ["facebook","x","linkedin"]
+  ShowReadingTime: true
+  ShowShareButtons: true
+  enableEmoji: true
+  ShowCodeCopyButtons: true
+  ShowPageNums: true
+  homeInfoParams:
+    Title: "Welcome to the GIC Articles Page!"
+    Content: >
+      **Yeap, you made it to the coolest project ever made in GMMSC.**
+
+      - This is an oasis of technological knowledge, explained eloquently by your fellow GIC members. Read and be enriched.
+
+      - > You want to submit an article ? [Click Me](https://blogs.ict.gmmsc.club/posts/mahdi010125/)
+
+
+  socialIcons:
+    - name: youtube
+      title: See awesome vids
+      url: "https://www.youtube.com/@ictgmmscclub"
+    - name: facebook
+      title: Get in touch with GIC
+      url: "https://www.facebook.com/club.ict.gmmsc"
