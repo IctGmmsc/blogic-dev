@@ -6,27 +6,83 @@
     <description>Recent content on GIC Blogs</description>
     <generator>Hugo -- 0.139.4</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2025 22:25:09 +0600</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 23:54:01 +0600</lastBuildDate>
     <atom:link href="https://blogs.ict.gmmsc.club/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to GitHub : Part 2</title>
+      <link>https://blogs.ict.gmmsc.club/posts/mahdi0301253/</link>
+      <pubDate>Fri, 03 Jan 2025 23:54:01 +0600</pubDate>
+      <guid>https://blogs.ict.gmmsc.club/posts/mahdi0301253/</guid>
+      <description>&lt;p&gt;Have you finished mastering the &lt;a href=&#34;https://blogs.ict.gmmsc.com/posts/mahdi030125&#34;&gt;first part&lt;/a&gt;?&lt;br&gt;
+It is assumed here that you have been using GitHub for quite some times.&lt;/p&gt;
+&lt;p&gt;GitHub এ  একটা প্রজেক্ট এ অনেকজন কাজ করলে - কতগুলো Best Practices ফলো করা ভালো&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;step-1-repo-clone-কর&#34;&gt;Step 1: Repo Clone করা&lt;/h2&gt;
+&lt;p&gt;যেই repo তে তুমি কাজ করতে চাও, সেটা তোমার local machine এ নামিয়ে নিতে হবে।&lt;/p&gt;
+&lt;h3 id=&#34;command&#34;&gt;&lt;strong&gt;Command:&lt;/strong&gt;&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git clone &amp;lt;repo_url&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;step-2-repo-folder-এ-যও-cd-মন-change-directory&#34;&gt;Step 2: Repo Folder এ যাও (cd মানে Change Directory)&lt;/h2&gt;
+&lt;h3 id=&#34;command-1&#34;&gt;&lt;strong&gt;Command:&lt;/strong&gt;&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;cd &amp;lt;repo_name&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;💡 উদাহরণ:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introduction to GitHub : Part 1</title>
+      <link>https://blogs.ict.gmmsc.club/posts/mahdi030125/</link>
+      <pubDate>Fri, 03 Jan 2025 20:58:37 +0600</pubDate>
+      <guid>https://blogs.ict.gmmsc.club/posts/mahdi030125/</guid>
+      <description>&lt;p&gt;আমরা Google Drive এ ছবি কিংবা ভিডিও  save  করে রাখি । সেটা সংরক্ষিতও থাকে সহজে share-ও করা যায় । প্রোগ্রামারদের Google Drive হলো GITHUB&lt;/p&gt;
+&lt;p&gt;আমরা খুব সহজভাবে, মজার কিছু উদাহরণ দিয়ে GitHub-এর ব্যবহার শিখব।&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;step-1-github-what&#34;&gt;Step 1: GitHub what?&lt;/h2&gt;
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://i.ibb.co.com/dMDGZW6/9fkd1x.jpg&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;GitHub মূলত একটা “ভান্ডার” যেখানে কোড রাখা হয়।  আবার অনেকজন একসাথে একই প্রজেক্টে কোডিং করতে চাইলে যার যার ডেস্কটপে কোড লিখে এরপর GitHub এ রেখে দেয়া যায় - এ ব্যপারটা ম্যানেজ করার চমৎকার ব্যবস্থা আছে ওখানে ।
+নিজের ডেস্কটপকে বলা হয় Local Environment - আর GitHub এর যে ফোল্ডারে এগুলো সেইভ থাকে সেটা Remote Environment ।&lt;/p&gt;</description>
+    </item>
     <item>
       <title>How To Submit An Article</title>
       <link>https://blogs.ict.gmmsc.club/posts/mahdi010125/</link>
       <pubDate>Wed, 01 Jan 2025 22:25:09 +0600</pubDate>
       <guid>https://blogs.ict.gmmsc.club/posts/mahdi010125/</guid>
-      <description>&lt;h1 id=&#34;how-to-submit-your-article-to-gic-blogs&#34;&gt;How to Submit Your Article to GIC Blogs&lt;/h1&gt;
-&lt;p&gt;Hey, wordsmiths! would you like seeing your article featured on &lt;strong&gt;GIC Blogs&lt;/strong&gt; and maybe even winning a cool prize? Here&amp;rsquo;s your shot! Follow these quick steps to send us your article:&lt;/p&gt;
-&lt;h2 id=&#34;submission-guidelines&#34;&gt;Submission Guidelines&lt;/h2&gt;
-&lt;ol&gt;
+      <description>&lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Craft Your Article:&lt;/strong&gt; Write something amazing! It can be in &lt;code&gt;.docx&lt;/code&gt;, &lt;code&gt;.txt&lt;/code&gt;, &lt;code&gt;.md&lt;/code&gt;, or just plain text in the email. Any Technology related article is applicable. We will test if it qualifies to be published.&lt;/p&gt;</description>
+&lt;p&gt;Write something amazing! It can be in &lt;code&gt;.docx&lt;/code&gt;, &lt;code&gt;.txt&lt;/code&gt;, &lt;code&gt;.md&lt;/code&gt;, or just plain text in the email. Any Technology related article is applicable. We will test if it qualifies to be published.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Send your article to &lt;strong&gt;&lt;a href=&#34;mailto:ict.gmmsc.club@gmail.com&#34;&gt;ict.gmmsc.club@gmail.com&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Make sure your email subject is exactly:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Article for GIC Blog&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In the email body, please mention:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Your &lt;strong&gt;Name&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Your &lt;strong&gt;Class&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Your &lt;strong&gt;ID Number&lt;/strong&gt;&lt;br&gt;
+Then attach your arti-cool.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Hit Send:&lt;/strong&gt; And that’s it.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;why-submit&#34;&gt;Why Submit?&lt;/h2&gt;
+&lt;p&gt;The &lt;strong&gt;best articles&lt;/strong&gt; every month get:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Importance of technological literacy and liberation</title>
       <link>https://blogs.ict.gmmsc.club/posts/sarzil010125/</link>
       <pubDate>Wed, 01 Jan 2025 22:03:45 +0600</pubDate>
       <guid>https://blogs.ict.gmmsc.club/posts/sarzil010125/</guid>
-      <description>&lt;h1 id=&#34;importance-of-technological-literacy-and-liberation&#34;&gt;Importance of technological literacy and liberation&lt;/h1&gt;
-&lt;h3 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;motive&#34;&gt;Motive&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;summary&#34;&gt;Summary (tl;dr)&lt;/a&gt;&lt;/li&gt;
