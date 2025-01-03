@@ -15,14 +15,20 @@ params:
   homeInfoParams:
     Title: "Welcome to the GIC Articles Page!"
     Content: >
-      **Yeap, you made it to the coolest project ever made in GMMSC.**
+     ### Yeap, you arrived in the coolest project ever made in GMMSC!
+      - 
 
       - This is an oasis of technological knowledge, explained eloquently by your fellow GIC members. Read and be enriched.
-
-      - > You want to submit an article ? [Click Me](https://blogs.ict.gmmsc.club/posts/mahdi010125/)
+  
+      - > **You want to submit an article ?** [Click Me](https://blogs.ict.gmmsc.club/posts/mahdi010125/)
+  
+      - And join Discord to discuss with us about the articles. Perform proper rituals for Facebook and Youtube as well (Follow/Subscribe, Like and Share)
 
 
   socialIcons:
+    - name: discord
+      title: Discord
+      url: "https://discord.gg/X66uGbJWXs"
     - name: youtube
       title: See awesome vids
       url: "https://www.youtube.com/@ictgmmscclub"
