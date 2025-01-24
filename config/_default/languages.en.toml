@@ -15,14 +15,14 @@ title = "GIC Blogs"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-  name = "GMMSC ICT Club"
+  name = "GIC Blogs"
   email = "ict.gmmsc.club@gmail.com"
   imageQuality = 96
-  headline = "Welcome to the GIC Articles Page!"
+  headline = "Ad Astra Per Technologiam"
   bio = "This is an oasis of technological knowledge, explained eloquently by your fellow GIC members. Read and be enriched. And join Discord to discuss with us about the articles. Perform proper rituals for Facebook and Youtube as well (Follow/Subscribe, Like and Share)"
   links = [
+     { link = "https://ict.gmmsc.club/" },
      { email = "mailto:ict.gmmsc.club@gmail.com" },
-#     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
@@ -34,7 +34,7 @@ title = "GIC Blogs"
      { facebook = "https://www.facebook.com/club.ict.gmmsc" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-#     { github = "https://github.com/username" },
+     { github = "https://github.com/IctGmmsc" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },

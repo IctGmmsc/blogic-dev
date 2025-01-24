@@ -25,9 +25,9 @@
   pageRef = "tags"
   weight = 20
 
-
 [[main]]
   name = "GIC"
+  pre = "link"
   url = "https://ict.gmmsc.club/"
   weight = 30
 
@@ -35,7 +35,33 @@
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
+
 [[footer]]
-  name = "Tags"
-  pageRef = "tags"
+  name = "ict.gmmsc.club@gmail.com"
+  pre = "email"
   weight = 10
+  url = "mailto:ict.gmmsc.club@gmail.com"
+
+[[footer]]
+  name = "Discord"
+  pre = "discord"
+  weight = 30
+  url = "https://discord.gg/X66uGbJWXs"
+
+[[footer]]
+  name = "Facebook"
+  pre = "facebook"
+  weight = 40
+  url = "https://www.facebook.com/club.ict.gmmsc"
+
+[[footer]]
+  name = "Github"
+  pre = "github"
+  weight = 50
+  url = "https://github.com/IctGmmsc"
+
+[[footer]]
+  name = "YouTube"
+  pre = "youtube"
+  weight = 60
+  url = "https://www.youtube.com/@ictgmmscclub"
