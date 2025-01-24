@@ -1,46 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gic Blog on GIC Blogs</title>
-    <link>https://blogs.ict.gmmsc.club/tags/gic-blog/</link>
+    <link>//localhost:1313/tags/gic-blog/</link>
     <description>Recent content in Gic Blog on GIC Blogs</description>
-    <generator>Hugo -- 0.139.4</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2025 22:25:09 +0600</lastBuildDate>
-    <atom:link href="https://blogs.ict.gmmsc.club/tags/gic-blog/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>ict.gmmsc.club@gmail.com (GMMSC ICT Club)</managingEditor>
+    <webMaster>ict.gmmsc.club@gmail.com (GMMSC ICT Club)</webMaster>
+    <copyright>© 2025 GMMSC ICT Club</copyright>
+    <lastBuildDate>Wed, 01 Jan 2025 22:25:09 +0600</lastBuildDate><atom:link href="//localhost:1313/tags/gic-blog/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>How To Submit An Article</title>
-      <link>https://blogs.ict.gmmsc.club/posts/mahdi010125/</link>
+      <link>//localhost:1313/posts/mahdi010125/</link>
       <pubDate>Wed, 01 Jan 2025 22:25:09 +0600</pubDate>
-      <guid>https://blogs.ict.gmmsc.club/posts/mahdi010125/</guid>
-      <description>&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Write something amazing! It can be in &lt;code&gt;.docx&lt;/code&gt;, &lt;code&gt;.txt&lt;/code&gt;, &lt;code&gt;.md&lt;/code&gt;, or just plain text in the email. Any Technology related article is applicable. We will test if it qualifies to be published.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Send your article to &lt;strong&gt;&lt;a href=&#34;mailto:ict.gmmsc.club@gmail.com&#34;&gt;ict.gmmsc.club@gmail.com&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Make sure your email subject is exactly:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Article for GIC Blog&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;In the email body, please mention:&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;Your &lt;strong&gt;Name&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Your &lt;strong&gt;Class&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Your &lt;strong&gt;ID Number&lt;/strong&gt;&lt;br&gt;
-Then attach your arti-cool.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;5&#34;&gt;
-&lt;li&gt;&lt;strong&gt;Hit Send:&lt;/strong&gt; And that’s it.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;why-submit&#34;&gt;Why Submit?&lt;/h2&gt;
-&lt;p&gt;The &lt;strong&gt;best articles&lt;/strong&gt; every month get:&lt;/p&gt;</description>
+      <author>ict.gmmsc.club@gmail.com (GMMSC ICT Club)</author>
+      <guid>//localhost:1313/posts/mahdi010125/</guid>
+      <description></description>
+      
     </item>
+    
   </channel>
 </rss>

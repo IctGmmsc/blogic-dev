@@ -1,14 +1,16 @@
 # Some Key Notes
 
 ### TODO
-
-Figure out how to not show "GMMSC ICT Club" on every blog post. Instead just show specific author who wrote it. I know it should be possible based on a demo I saw on Blowfish docs.
+- [ ] Set custom color palette
+- [ ] Set correct BG
+- [ ] Update default authors' params
+- [ ] Update params.toml
 
 ### Configuration Parameters
 Configuration files are in `config/_default`
 
 ### Adding authors
-A new JSON file needs to be added for each author inside /data/authors
+A new JSON file needs to be added for each author inside `data/authors/username.js`
 
 ### Images
 All images need to go under `assets/img`  (not `static`)
